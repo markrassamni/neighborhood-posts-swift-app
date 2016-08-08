@@ -1,4 +1,4 @@
-# Neighboorhood Comments App
+# Neighborhood Comments App
 
 Users post a picture of something from their neghboorhood along with a title and description. All submissions are stored in a table view on the home screen.
 
